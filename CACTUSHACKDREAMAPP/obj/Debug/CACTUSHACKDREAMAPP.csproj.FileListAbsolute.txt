@@ -1,0 +1,17 @@
+c:\users\madow_000\documents\visual studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\bin\Debug\CACTUSHACKDREAMAPP.dll
+c:\users\madow_000\documents\visual studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\bin\Debug\CACTUSHACKDREAMAPP.pdb
+c:\users\madow_000\documents\visual studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\bin\Debug\CACTUSHACKDREAMAPP.CACTUSHACKDREAMAPP.apk
+c:\users\madow_000\documents\visual studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\bin\Debug\CACTUSHACKDREAMAPP.CACTUSHACKDREAMAPP-Signed.apk
+c:\users\madow_000\documents\visual studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\obj\Debug\CACTUSHACKDREAMAPP.csprojResolveAssemblyReference.cache
+c:\users\madow_000\documents\visual studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\obj\Debug\CACTUSHACKDREAMAPP.dll
+c:\users\madow_000\documents\visual studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\obj\Debug\CACTUSHACKDREAMAPP.pdb
+c:\users\madow_000\documents\visual studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\obj\Debug\android\bin\CACTUSHACKDREAMAPP.CACTUSHACKDREAMAPP.apk
+c:\users\madow_000\documents\visual studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\obj\Debug\res\layout\main.xml
+c:\users\madow_000\documents\visual studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\obj\Debug\res\values\strings.xml
+c:\users\madow_000\documents\visual studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\obj\Debug\res\drawable\icon.png
+c:\users\madow_000\documents\visual studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\obj\Debug\R.cs.flag
+c:\users\madow_000\documents\visual studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\obj\Debug\uploadflags.txt
+C:\Users\madow_000\Documents\Visual Studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\bin\Debug\RestSharp.dll
+C:\Users\madow_000\Documents\Visual Studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\bin\Debug\RestSharp.xml
+C:\Users\madow_000\Documents\Visual Studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\obj\Debug\CACTUSHACKDREAMAPP.dll.mdb
+C:\Users\madow_000\Documents\Visual Studio 2015\Projects\CACTUSHACKDREAMAPP\CACTUSHACKDREAMAPP\bin\Debug\CACTUSHACKDREAMAPP.dll.mdb
